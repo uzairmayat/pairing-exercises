@@ -1,0 +1,18 @@
+{
+  "name": "roman-numerals",
+  "version": "1.0.0",
+  "description": "Roman numerals",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha ."
+  },
+  "author": "SEO Team",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.3",
+    "sinon": "^12.0.1",
+    "sinon-chai": "^3.7.0"
+  }
+}
